@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "EMcA53qRkkCQtZUWcJ8wPo1i6uZdXAHwgLAeUFeUHWqh",
+    "candyGuard": "Gx3ang66KjcWqMz3x69KwNJMH7mruEVAYudZdsKow7k6",
+    "candyMachineCreator": "FT4v2WSMuwHXwh9dt6ULJxwUJgfVoS4mpBFKNQTMt3B7",
+    "collectionMint": "2J4FTuBHY7tzSdGvP5ursfYGsdNQ1zCLKq1yTqxcKEm5"
+  },
+  "items": {
+    "-1": {
+      "name": "The Last War ",
+      "image_hash": "f0fe2c08b9444826f31b4825db16f92caf0357cda5649b21281314d9a9f136b3",
+      "image_link": "https://arweave.net/SpFETCLH0I0d7GBGee2VgdFv65rfmgWj5PZRqOWOrXc?ext=png",
+      "metadata_hash": "c8a3d125cc6e93200a0e85594eee7ad1e6f6a2eff65ca2d5243bd44b55fdc3c9",
+      "metadata_link": "https://arweave.net/W8Hmpto6UsbmhLphCFQQrn1Kxmhno-T0cwpxnQdHcPs",
+      "onChain": true
+    },
+    "0": {
+      "name": "The Last War NFT Collection #0",
+      "image_hash": "ce91a4f86d538e9fc84742eb3f963e0c585ed43b913bbcff311119e6efb1a089",
+      "image_link": "https://arweave.net/VZnlIAbuZCfgG5ErWyRUiam69qGpvWrNpCHTic7dka4?ext=png",
+      "metadata_hash": "0acf768bc6661a759f1bba06c30c65c7da5c95f8dd0ecacff5597a07f819b8e1",
+      "metadata_link": "https://arweave.net/yUxF-1a-3p9b2siF5REWvdvefzR4XgrUcLGWRc6apJU",
+      "onChain": true
+    },
+    "1": {
+      "name": "The Last War NFT Collection #1",
+      "image_hash": "0be4238b7bc077f600aefffe06824ee9da43f4539e66526d5953873966384fe7",
+      "image_link": "https://arweave.net/jD00yZExiM86aTFVqFX6SzTjgGLCBg_JtQSfqGarZvE?ext=png",
+      "metadata_hash": "c089bdda1dd363870914d214f3c321c18088da68849c0311cda6910b44bf44cd",
+      "metadata_link": "https://arweave.net/ViSFD0gvaApsw10tP0EbP_9_ra8FMMur_R08Bd9F7zE",
+      "onChain": true
+    },
+    "2": {
+      "name": "The Last War NFT Collection #2",
+      "image_hash": "5c4f9553b4c6327c636a7471a77e27aad0c526b330bc94cfe265ca9cbaec37ba",
+      "image_link": "https://arweave.net/SphhE6poA7FvR2qCorxq4YOPll_dxplO-izLsTK4DcQ?ext=png",
+      "metadata_hash": "18eab49e05ba4c0246ba12b7b4b677ebdca8f16a0c0f91d1a8e9cd39a5f1d093",
+      "metadata_link": "https://arweave.net/XlZacJp6E9SMQ0lmP3EIFrDxodaOcdIPwpjgf2CZPhU",
+      "onChain": true
+    },
+    "3": {
+      "name": "The Last War NFT Collection #3",
+      "image_hash": "05c3174e2f0f86f80c5b3b437e9141d1ac515fdb176ac9179338ad61fbbabc2c",
+      "image_link": "https://arweave.net/jy11yi37TP2WctW5p3GQYk4giAm8cG8jImjaUbZYdwE?ext=png",
+      "metadata_hash": "21a259d3271c7ee9fdddd46cf9f5f0504b54335b03aa20e5221adc3309c8a8c1",
+      "metadata_link": "https://arweave.net/HHzgyKMjbAYovbTMeMVwQgDXhpNryOceyZAT2szqKCk",
+      "onChain": true
+    },
+    "4": {
+      "name": "The Last War NFT Collection #4",
+      "image_hash": "c1855950aa2c87d198896d4a5b28c26c1e817f72f96f4f3181bb1e8b1cf522c9",
+      "image_link": "https://arweave.net/gSuu9Eh_-M-5Pe21Y-Z-xu9JCb8riksil0a9tKs02gY?ext=png",
+      "metadata_hash": "0bd4068eff27faf5ac481f343d917fb1259448b242eef20286fe92db6d718a06",
+      "metadata_link": "https://arweave.net/XWyHAyHiic5k5UqeRB1tP55siAdcrpO2dCqceywqkO8",
+      "onChain": true
+    },
+    "5": {
+      "name": "The Last War NFT Collection #5",
+      "image_hash": "35efb720c06dca641a248cddd3e57157acfb755e450c2cb8796fe50fbaefe8ca",
+      "image_link": "https://arweave.net/Eybalm6yey5I9T308fGc4aZWDk-HKbiKKV5pkvgWmgw?ext=png",
+      "metadata_hash": "b2f964b4c26db29b1e4999d1f0c6cc49ed1de53fc0f07c381e321a24c125bd5d",
+      "metadata_link": "https://arweave.net/zGlHJ-V4steIJT0R94qV-YjIegxP8iHqchk07GVkneY",
+      "onChain": true
+    },
+    "6": {
+      "name": "The Last War NFT Collection #6",
+      "image_hash": "662d452f4d5df45bb95a446975fc2cd7077a3020a65dad09e508e7b730b5f61b",
+      "image_link": "https://arweave.net/0Wa8Q4Zn4Hky2_x7f9TKZSsX3Kh0_UcJgFKGUsnP8xM?ext=png",
+      "metadata_hash": "469982d632e9a70911c9b3a8b0d88b7c9ca2f74159bcd4ef37815cc5ad1d42ce",
+      "metadata_link": "https://arweave.net/cjkkL_7HniLJpJSz3TmVTh0VJoyXjmzheN4E9DcpmCc",
+      "onChain": true
+    },
+    "7": {
+      "name": "The Last War NFT Collection #7",
+      "image_hash": "14f1fd95280f30f27ea6b92adf752a089ff47be7ff296f7c8f18ca209dcb7e1e",
+      "image_link": "https://arweave.net/zqEBJog-48OSnMTP6osBzefhbtMgqrFEjDLN-Xm1ZiM?ext=png",
+      "metadata_hash": "273093dc823da48a582590b4fd61d00ac1a90f70a817e8efca3bb366d28e376e",
+      "metadata_link": "https://arweave.net/kR7A7kUDyE8IMOjSMVaD_uv2MNrQLO89rRIx_IgL6Y8",
+      "onChain": true
+    },
+    "8": {
+      "name": "The Last War NFT Collection #8",
+      "image_hash": "d93413f43bd4165957813f817c560765f5f397e63901dd0b93102352dff9c0a5",
+      "image_link": "https://arweave.net/qAvHCb_-wxZ9Iki9QmBjBpqUVvtBQTQ7R3OUruRQIqw?ext=png",
+      "metadata_hash": "ae6a74096e045ea589f257d3df50b9f8e6f9c052873dab724e5dc4331de3a67b",
+      "metadata_link": "https://arweave.net/gI4SgZBTGjHJNpX8hq5BuUwUu54bjN9C0aOHFB6b7Nk",
+      "onChain": true
+    },
+    "9": {
+      "name": "The Last War NFT Collection #9",
+      "image_hash": "d6d19c5b44d9d31a540d56abaeb477bfe6fb462575a219662c25dba6f22847c9",
+      "image_link": "https://arweave.net/fVzoDGVIxf2hBD-upv7oGfCtBCidQYwryLOfFbALUU4?ext=png",
+      "metadata_hash": "e2679a1cfd452853f5b5e62dab4f34fb0c623646ed4bbcff8ffd4f2d0e8c8606",
+      "metadata_link": "https://arweave.net/Ye4L4O77sHXxWtoOvV-aUHaKCVJ5_U61slQhHys5VZU",
+      "onChain": true
+    }
+  }
+}

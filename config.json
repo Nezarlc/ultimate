@@ -1,0 +1,33 @@
+{
+    "tokenStandard": "pnft",
+    "number": 10,
+    "symbol": "TLWS",
+    "sellerFeeBasisPoints": 1000,
+    "isMutable": true,
+    "isSequential": false,
+    "ruleSet": "eBJLFYPxJmMGKuFwpDWkzxZeUrad92kZRC5BJLpzyT9",
+    "creators": [
+        {
+            "address": "9fc2iSauapM1nuLzEpVgmaYncwqhGcjti8jfJAUWWSJH",
+            "share": 100
+        }
+    ],
+    "uploadMethod": "bundlr",
+    "awsConfig": null,
+    "nftStorageAuthToken": null,
+    "shdwStorageAccount": null,
+    "pinataConfig": null,
+    "hiddenSettings": null,
+    "guards": {
+        "default": {
+            "solPayment": {
+                "value": 0.01,
+                "destination": "9fc2iSauapM1nuLzEpVgmaYncwqhGcjti8jfJAUWWSJH"
+            },
+            "botTax": {
+                "value": 0.001,
+                "lastInstruction": true
+            }
+        }
+    }
+}

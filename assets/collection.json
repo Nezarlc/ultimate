@@ -1,0 +1,14 @@
+{
+    "name": "The Last War ",
+    "symbol": "TLWS",
+    "description": "Collection",
+    "image": "collection.png",
+    "properties": {
+        "files": [
+            {
+            "uri": "collection.png",
+            "type": "image/png"
+            }
+        ]
+    }
+}
