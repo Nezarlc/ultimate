@@ -1,0 +1,21 @@
+{
+  "name": "The Last War NFT Collection #5",
+  "symbol": "TLWS",
+  "description": "The Last War NFT Collection Solana",
+  "seller_fee_basis_points": 1000,
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "NFTS",
+      "value": "Sariel"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

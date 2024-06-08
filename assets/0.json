@@ -1,0 +1,21 @@
+{
+  "name": "The Last War NFT Collection #0",
+  "symbol": "TLWS",
+  "description": "The Last War NFT Collection Solana",
+  "seller_fee_basis_points": 1000,
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "NFTS",
+      "value": "orco"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
